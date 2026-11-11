@@ -3,7 +3,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
-
+//ini commet untuk cek github connection
 class Berita extends Model
 {
     protected $table = 'berita';
